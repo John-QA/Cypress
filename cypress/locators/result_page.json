@@ -1,0 +1,4 @@
+{
+  "text": "#messageHeader",
+  "exit": "#exitMessageButton > .exitIcon"
+}

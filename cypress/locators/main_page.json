@@ -1,0 +1,6 @@
+{
+  "email": "#mail",
+  "password": "#pass",
+  "authoriz_button": "#loginButton",
+  "fogot_pass_btn": "#forgotEmailButton"
+}

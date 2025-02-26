@@ -1,0 +1,13 @@
+{
+	"login":"USER_LOGIN", 
+	"password":"USER_PASSWORD",
+	"pok_login":"USER_LOGIN", 
+	"pok_password":"USER_PASSWORD",
+	"test_card": {
+	"number":"4024 5819 8939 6265",
+	"actual":"10/26",
+	"name":"Refresh Archer",
+	"CVV":"125",
+	"secure":"56456"		
+	}
+}
